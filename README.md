@@ -62,24 +62,47 @@ The program will print the following results to the console:
 ## Graphs of the syncronization technique(Threads vs Throughput):
 
 1. *Coarse-Grain Synchronization*:
+    ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/cd16727d-b28f-4605-82fb-c1106640e47a)
    
+    ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/57574f4d-b3e7-4840-96e5-a77dadc1092a)
+   
+    ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/4a177d3e-577a-4c8c-a100-52a54d15e7ea)
+
    
 
-2. *Fine-Grain Synchronization*:
+3. *Fine-Grain Synchronization*:
 	
-
-
-3. *Optimistic Synchronization*:
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/6f5bf49a-44a1-4fb3-b73a-892251e52da3)
    
-
-
-4. *Lazy Synchronization*:
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/68290b48-9e95-4a40-aff0-df42097c8591)
    
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/94fbb429-db68-4b7d-85a8-7ce2ba68e93e)
 
 
-5. *Non-blocking Synchronization*:
+5. *Optimistic Synchronization*:
    
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/4d4136fd-822a-41fe-b3fc-ce0e1c773666)
    
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/581fb3ea-1d83-4a68-95ff-2911dcc43bd5)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/e4e057e3-9b13-42fc-a045-5ebdb3c98106)
+
+
+7. *Lazy Synchronization*:
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/14356cdd-6c3b-4fa3-aa50-f85187572b67)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/a99fe471-ab13-4c0b-a6d2-39c56a74d4e0)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/9d8ab990-6c43-43c9-bda2-df23cc13bad8)
+
+
+
+9. *Non-blocking Synchronization*:
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/86b0146b-bc8d-4d45-95a5-833d673df1ee)
+
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/d53e4686-853a-41b5-b810-bbcdae81d7ec)
+
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_2/assets/87477849/9557a8ce-3be5-4de4-a6f4-8be50251dc35)
 
 ## Conclusion
 
